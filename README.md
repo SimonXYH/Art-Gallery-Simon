@@ -1,6 +1,7 @@
 # The Art Gallery
 One of the main reasons I am so deeply passionate about physics, mathematics, and science in general is the intrinsic beauty of the ideas they explore. I love visualizing the abstract things, and the concrete things. I am fascinated by simulation, it's almost ridiculous how much joy I can get from just watching a single dot moing on the screen while a number is hold fixed (energy). 
 Here, I have gathered a selection of my favorite Desmos creations, in the hope of sharing with others the same sense of awe and beauty that first drew me to these subjects.
+
 Electrons, Link and Fibration: 
 
 <img width="1485" height="1066" alt="image" src="https://github.com/user-attachments/assets/d54310af-e04b-44ed-b530-718f4077bad8" />
